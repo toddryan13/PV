@@ -4,7 +4,7 @@
 
 The code you write in completion of this task, as well as your ability to explain the approach you take and the reasoning behind your decisions are extremely important to us.  This is our primary insight into your coding abilities.  _We hope and expect that you will take this aspect of the interview process seriously!_
 
-During the scheduled code review, the developers reviewing your solution with you will be calling on Skype (desired) or Google Hangouts (back up).  During the call, you will be sharing your screen while walking through your solution, so please ensure that you are able to do so using both Skype **and** Google Hangouts.
+During the scheduled code review, the developers reviewing your solution with you will be calling in with the GoToMeeting login information. During the call, you will be sharing your screen while walking through your solution, so please ensure that you are able to do so using GoToMeeting.
 
 **Prior to the code review, upload your solution to GitHub and provide Practice Velocity with a link to the shared repository no later than 10 AM the morning after**  **your receipt of this document.**
 
